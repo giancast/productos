@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Pastel 3",
+      "precio": "600"
+    },
+    {
+      "nombre": "Pastel de Zanahoria",
+      "precio": "45",
+      "id": 4
+    },
+    {
+      "nombre": "Pastel de Chocolate",
+      "precio": "60",
+      "id": 5
+    },
+    {
+      "nombre": "papa a la huancaina",
+      "precio": "20",
+      "id": 6
+    }
+  ]
+}
